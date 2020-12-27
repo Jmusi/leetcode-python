@@ -1,3 +1,3 @@
 # leetcode-python
 
-leetcode刷题
+leetcode记录
